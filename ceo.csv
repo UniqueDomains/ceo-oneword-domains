@@ -544,6 +544,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 301fd23c-3375-4eb4-89a5-d7043cfd53cc,commonpurposes.ceo,available,10.19,109.99,48,2,15,namesilo,,
 30393787-0755-4846-93cb-7c750c3d3d76,sobeit.ceo,available,19.99,,52,5,8,name.com,,
 30492bc1-86d2-4454-8862-f553aaf728dc,samples.ceo,available,19.99,,60,12,7,name.com,,
+3056b135-2620-45f3-96ee-2355dfdd988f,diabetes.ceo,resell,,,66,37,8,"Go Daddy, LLC",25/04/2018 20:42,25/04/2027 23:59
 3066823d-0e76-4ca4-887d-7d9c1a83478f,fitout.ceo,available,19.99,,76,8,7,name.com,,
 307bc28f-7569-4b66-8ccc-545470f10ae0,slightest.ceo,available,19.99,,56,1,9,name.com,,
 3099cd60-2564-493d-a22d-151d82d53dcd,fellowed.ceo,available,19.99,,52,1,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54e84c22-0be0-42a1-b131-9f6c39e91daa,systems.ceo,available,19.99,,46,27,7,name.com,,
 55223c68-5e58-42ba-8e88-40d32751939d,gobackon.ceo,available,19.99,,72,2,10,name.com,,
 5523036c-962b-4129-89c1-f481fcee97c6,mistakes.ceo,available,19.99,,52,7,8,name.com,,
-552500f4-a633-46d5-95df-d49a3ccca44c,mouthed.ceo,available,10.19,109.99,63,1,7,namesilo,,

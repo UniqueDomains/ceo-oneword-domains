@@ -469,6 +469,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2ad671a4-2a8a-4c08-951c-a57144480e4c,keepitdown.ceo,available,19.99,,46,0,12,name.com,,
 2afce6a0-855b-44db-a6bf-a702748b21b3,spillover.ceo,available,19.99,,68,4,10,name.com,,
 2b0635f4-ab9e-4f91-bb34-be9e4199705a,monkeys.ceo,available,19.99,,56,13,7,name.com,,
+2b0af8c9-2edb-44af-a68b-588cdb1fd225,Iloveyou.ceo,premium,,,64,23,10,,,
 2b17665d-318c-450d-bf28-dc3bf0333851,takesteps.ceo,available,19.99,,71,2,10,name.com,,
 2b247059-3e5a-4e78-9c1a-a556e6fa2b23,studios.ceo,available,19.99,,54,21,7,name.com,,
 2b3efbcc-7646-4e6f-9a36-b5d2669cbc07,gothroughwith.ceo,available,10.19,109.99,58,1,15,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54dfae48-bbbc-4c9f-9e29-927f565b58bf,inprivate.ceo,available,19.99,,70,3,10,name.com,,
 54e84c22-0be0-42a1-b131-9f6c39e91daa,systems.ceo,available,19.99,,46,27,7,name.com,,
 55223c68-5e58-42ba-8e88-40d32751939d,gobackon.ceo,available,19.99,,72,2,10,name.com,,
-5523036c-962b-4129-89c1-f481fcee97c6,mistakes.ceo,available,19.99,,52,7,8,name.com,,

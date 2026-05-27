@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ceo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,267 domains · **Median ask:** $46.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/ceo`  
 **Best for:** founders, investors, studios
 
@@ -70,15 +70,15 @@ print(df.head())
 | stories.ceo      | available | $19.99    | —             | 58             | 36     | 7      | name.com      |
 | payments.ceo     | resell    | —         | —             | 58             | 33     | 8      | Go Daddy, LLC |
 | events.ceo       | premium   | $499      | —             | 68             | 37     | 6      | name.com      |
-| inspiration.ceo  | available | $19.99    | —             | 88             | 30     | 11     | name.com      |
-| tickets.ceo      | premium   | $499      | —             | 64             | 34     | 7      | name.com      |
 | videos.ceo       | available | $19.99    | —             | 52             | 30     | 6      | name.com      |
+| tickets.ceo      | premium   | $499      | —             | 64             | 34     | 7      | name.com      |
+| gods.ceo         | available | $19.99    | —             | 72             | 29     | 4      | name.com      |
 | Cats.ceo         | premium   | $558.88   | $558.88       | 59             | 33     | 4      | namecheap     |
 | quotes.ceo       | available | $19.99    | —             | 58             | 29     | 6      | name.com      |
 | rewards.ceo      | premium   | $499      | —             | 62             | 30     | 7      | name.com      |
 | commonground.ceo | available | $19.99    | —             | 74             | 28     | 13     | name.com      |
-| traders.ceo      | premium   | $499      | —             | 60             | 26     | 7      | name.com      |
-| gods.ceo         | available | $19.99    | —             | 72             | 27     | 4      | name.com      |
+| traders.ceo      | premium   | $499      | —             | 60             | 25     | 7      | name.com      |
+| inspiration.ceo  | available | $19.99    | —             | 88             | 27     | 11     | name.com      |
 | shops.ceo        | premium   | $499      | —             | 64             | 24     | 5      | name.com      |
 | systems.ceo      | available | $19.99    | —             | 46             | 27     | 7      | name.com      |
 | affiliates.ceo   | premium   | $499      | —             | 60             | 21     | 10     | name.com      |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CEO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CEO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

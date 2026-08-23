@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ceo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,176 domains · **Median ask:** $31.09 · **High-demand under $2,500:** 41
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/ceo`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| bang.ceo    | available | $10.19    | $109.99       | high           | low    | 4      | namesilo        |
 | ane.ceo     | available | $9.99     | $124.98       | low            | low    | 3      | namecheap       |
 | people.ceo  | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc. |
 | aaa.ceo     | premium   | $518.96   | $518.96       | high           | medium | 3      | namecheap       |
@@ -83,7 +84,6 @@ print(df.head())
 | date.ceo    | premium   | $499      | —             | high           | low    | 4      | name.com        |
 | Eid.ceo     | available | $10.19    | $109.99       | high           | low    | 3      | namesilo        |
 | fast.ceo    | premium   | $499      | $499          | high           | medium | 4      | name.com        |
-| eve.ceo     | available | $19.99    | —             | high           | medium | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CEO One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CEO One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
